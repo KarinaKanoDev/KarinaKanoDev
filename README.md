@@ -1,4 +1,6 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/burgerqueen-21918.appspot.com/o/back_1.gif?alt=media&token=b4ca111e-42bd-43d1-a81a-6d69599b6d1f" alt="karinakano" /> 
+<div align="center">
+  <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/back_1.gif?raw=true" alt="karinaKano" width="1000"
+</div>
 
 <div align=center>
   <h1> KARINA KANO </h1>
@@ -19,8 +21,10 @@
  <br>
  <br>
  <br>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaKanoDev&show_icons=true&theme=graywhite)
+    
+<div align="center">
+  <img align="center" alt='karinaKano GitHub stats' src="https://github-readme-stats.vercel.app/api?username=karinakanodev&show_icons=true&theme=graywhite" /> 
+</div>
 
 <!--
 **KarinaKanoDev/KarinaKanoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
