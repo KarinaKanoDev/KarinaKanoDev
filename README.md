@@ -1,5 +1,5 @@
 <div align= center>
-<img src="https://www.youtube.com/watch?v=tJQel-vFuAo&ab_channel=KarinaKano" alt="KarinaKano" backgruond-size = "contain" width=1080/>
+<img src="https://media.giphy.com/media/HNC5BujMDZuKsEhbPR/giphy.gif" alt="KarinaKano" backgruond-size = "contain" width=1080/>
 </div>
 
 <!--
