@@ -1,5 +1,6 @@
+
 <div align= center>
-<img src="https://media.giphy.com/media/HNC5BujMDZuKsEhbPR/giphy.gif" alt="KarinaKano" backgruond-size = "contain" width=1080/>
+![background](https://user-images.githubusercontent.com/75265602/117239348-36538200-adf4-11eb-8ea4-086eabc3a785.png)
 </div>
 
 <!--
