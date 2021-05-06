@@ -6,7 +6,9 @@
   <img src="https://github.com/DenisseSantana/DenisseSantana/blob/main/assets/back_1.gif?raw=true" alt="karinaKano" width="1000"
 </div>
 
-
+<br>
+<br>
+<br>
 
 <div align=center> 
   <a href="https://www.linkedin.com/in/karinakanodev/" target="blank">
