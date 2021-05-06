@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/72XbUrvg0aQ5ohysSU/giphy.gif)
+![Alt Text](https://media.giphy.com/media/WvUizaJsqt0OAQ8Mao/giphy.gif)
 <!--
 **KarinaKanoDev/KarinaKanoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
