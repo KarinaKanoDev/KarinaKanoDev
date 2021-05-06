@@ -1,6 +1,4 @@
-<div align= center>
-<img src= "https://user-images.githubusercontent.com/75265602/117239504-83375880-adf4-11eb-9ef4-97bf85200c42.png" />
-</div>
+<img src="https://firebasestorage.googleapis.com/v0/b/burgerqueen-21918.appspot.com/o/back_1.gif?alt=media&token=b4ca111e-42bd-43d1-a81a-6d69599b6d1f" alt="karinakano" /> 
 
 <div align=center>
   <h1> KARINA KANO </h1>
