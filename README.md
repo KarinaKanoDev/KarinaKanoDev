@@ -10,7 +10,7 @@
 <br>
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/skills.jpg" alt="skills" width="500" />  
+  <img src="https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/skills.jpg" alt="skills" width="400" />  
 </div>
 
 <div align=center> 
