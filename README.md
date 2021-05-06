@@ -1,5 +1,5 @@
 <div align= center>
-<img src="https://media.giphy.com/media/WvUizaJsqt0OAQ8Mao/giphy.gif" alt="KarinaKano" backgruond-size = "contain"/>
+<img src="https://media.giphy.com/media/WvUizaJsqt0OAQ8Mao/giphy.gif" alt="KarinaKano" backgruond-size = "contain" width=20/>
 </div>
 
 <!--
