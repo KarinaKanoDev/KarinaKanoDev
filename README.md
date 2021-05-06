@@ -3,7 +3,7 @@
 <img src= "https://user-images.githubusercontent.com/75265602/117239504-83375880-adf4-11eb-9ef4-97bf85200c42.png" />
 </div>
 <div align= center>
-<img src= "https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/SOFWARE%20AND%20SKILLS.png" />
+
 </div>
 
 <!--
