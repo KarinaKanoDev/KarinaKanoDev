@@ -11,6 +11,7 @@
 <br>
 
 <div align=center> 
+  <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/karinakanodev/" target="blank">
     <img src= "https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/LinkedinLogo.jpg" alt ="karinaKanoTwitch" width=40
   </a>
