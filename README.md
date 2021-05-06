@@ -1,6 +1,6 @@
 
 <div align= center>
-![background](https://user-images.githubusercontent.com/75265602/117239348-36538200-adf4-11eb-8ea4-086eabc3a785.png)
+<img src= "https://user-images.githubusercontent.com/75265602/117239504-83375880-adf4-11eb-9ef4-97bf85200c42.png" />
 </div>
 
 <!--
