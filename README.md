@@ -9,6 +9,10 @@
 <br>
 <br>
 
+<div align=center>
+  <img src="https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/skills.jpg" alt="skills" width="500" />  
+</div>
+
 <div align=center> 
   <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/karinakanodev/" target="blank">
