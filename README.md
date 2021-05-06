@@ -18,7 +18,10 @@
     <img src= "https://raw.githubusercontent.com/KarinaKanoDev/KarinaKanoDev/main/InstagramLogo.jpg" alt ="karinaKanoTwitch" width=40
   </a>
 </div>
-
+ <br>
+ <br>
+ <br>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaKanoDev&show_icons=true&theme=graywhite)
 
 <!--
